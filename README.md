@@ -1,3 +1,4 @@
 # praticasprogramacionweb
 platicas en la clase de programacion web 
-primera prueba para cambios (commit)
+primera prueba para cambios (commit) 
+Nuevo colaborador: Irving
